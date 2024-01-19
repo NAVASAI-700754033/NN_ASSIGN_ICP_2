@@ -8,4 +8,4 @@ In this assignment, the below concepts are covered:
 - nested Interactive loop
 - list comprehensions
 
-Explanation Video: 
+[Explanation Video](https://drive.google.com/drive/folders/1NcvtQNNlN-GfDcmlP_QWmXlwep0KSAiB?usp=drive_link)
