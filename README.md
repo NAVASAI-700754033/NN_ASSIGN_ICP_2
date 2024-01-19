@@ -7,3 +7,5 @@ In this assignment, the below concepts are covered:
 - input_and_output file read and write concepts
 - nested Interactive loop
 - list comprehensions
+
+Explanation Video: 
